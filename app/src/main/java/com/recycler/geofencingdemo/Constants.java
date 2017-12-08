@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 public class Constants {
 
-
+//Location
     public static final String GEOFENCE_ID = "TACME";
     public static final float GEOFENCE_RADIUS_IN_METERS = 100;
 
