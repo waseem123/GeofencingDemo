@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeofencingDemo</string>
+
+    <string name="google_map_key">AIzaSyD1Bt3FSuontfsMSTmih2D10UKTHfoZOYA</string>
+</resources>
